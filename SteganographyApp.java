@@ -20,7 +20,7 @@ public class SteganographyApp extends JFrame {
     private BufferedImage currentDecodeImage;
 
     public SteganographyApp() {
-        setTitle("TextToPixels");
+        setTitle("JavaGraphy");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
         JTabbedPane tabbedPane = new JTabbedPane();
